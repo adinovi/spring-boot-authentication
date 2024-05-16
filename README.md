@@ -1,7 +1,4 @@
-- Differenza tra ID Token e Access Token
-- Definizione Scope
-
-# Spring Boot Security with OAuth 2.0 Example
+# Spring Boot Security with Entra ID Example
 
 This is a simple Spring Boot application demonstrating how to implement security using Spring Security with OAuth 2.0. The application exposes a protected endpoint that requires authentication using OAuth 2.0 tokens provided by Azure AD.
 
